@@ -3,8 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
-*.so
 
 dev_logs.log
 app_logs.log
@@ -29,7 +27,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-
+.idea
 
 pip-log.txt
 pip-delete-this-directory.txt
